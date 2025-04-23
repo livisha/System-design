@@ -1,0 +1,4 @@
+There are three types of pattern 
+1. creational - object ko kese structure kre
+2. Structural - code ko kese structure kre, class kese create kre
+3. Behavvioural - object interaction ke liye.
